@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "718757275607",
+    "project_id": "blind-578af",
+    "storage_bucket": "blind-578af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718757275607:android:9eeeba393cb25c57bd4d92",
+        "android_client_info": {
+          "package_name": "com.application.blindnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718757275607-1fgda21ld185h54m6subg9r7mug189c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.blindnetwork",
+            "certificate_hash": "47a8e80d2e7cd8d068c325b673552a95a32fcaf0"
+          }
+        },
+        {
+          "client_id": "718757275607-8r4j71ngpmm57apcj1rjsg49ni70jqe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5HN0p-jF2Br9oftIbPVFY07sPBXuGhuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718757275607-8r4j71ngpmm57apcj1rjsg49ni70jqe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
